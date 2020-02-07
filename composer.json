@@ -9,5 +9,10 @@
             "email": "marijn@monomelodies.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Monomelodies\\CodeinNamespaces\\": "./src"
+        }
+    }
 }
