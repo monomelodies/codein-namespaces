@@ -1,2 +1,2 @@
 # codein-namespaces
-Codein checks related to namespaces
+Codein checks related to namespace usage
