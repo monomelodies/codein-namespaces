@@ -1,0 +1,13 @@
+{
+    "name": "monomelodies/codein-namespaces",
+    "description": "Codein checks related to namespace usage",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
